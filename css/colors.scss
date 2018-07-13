@@ -1,0 +1,46 @@
+$dark-blue-1:         spin(mix($blue-1, #000, 70%),12);
+$dark-blue-2:         spin(mix($blue-1, #000, 80%),8);
+$dark-blue-3:         spin(mix($blue-1, #000, 90%),4);
+$blue-1:              #22A5F7;
+$blue-2:              mix($blue-1, #fff, 75%);
+$blue-3:              mix($blue-1, #fff, 50%);
+$light-blue-1:        mix($blue-1, #fff, 30%);
+$light-blue-2:        mix($blue-1, #fff, 20%);
+$light-blue-3:        mix($blue-1, #fff, 10%);
+$semi-white-blue:     mix($blue-1, #fff, 5%);
+
+// r
+$dark-red-1:          spin(mix($red-1, #000, 70%),-12);
+$dark-red-2:          spin(mix($red-1, #000, 80%),-8);
+$dark-red-3:          spin(mix($red-1, #000, 90%),-4);
+$red-1:               #F55656;
+$red-2:               mix($red-1, #fff, 75%);
+$red-3:               mix($red-1, #fff, 50%);
+$light-red-1:         mix($red-1, #fff, 30%);
+$light-red-2:         mix($red-1, #fff, 20%);
+$light-red-3:         mix($red-1, #fff, 10%);
+$semi-white-red:      mix($red-1, #fff, 5%);
+
+// y
+$dark-yellow-1:       spin(mix($yellow-1, #000, 70%),-12);
+$dark-yellow-2:       spin(mix($yellow-1, #000, 80%),-8);
+$dark-yellow-3:       spin(mix($yellow-1, #000, 90%),-4);
+$yellow-1:            #ffbc0b;
+$yellow-2:            mix($yellow-1, #fff, 75%);
+$yellow-3:            mix($yellow-1, #fff, 50%);
+$light-yellow-1:      mix($yellow-1, #fff, 30%);
+$light-yellow-2:      mix($yellow-1, #fff, 20%);
+$light-yellow-3:      mix($yellow-1, #fff, 10%);
+$semi-white-yellow:   mix($yellow-1, #fff, 5%);
+
+// g
+$dark-green-1:        spin(mix($green-1, #000, 70%),12);
+$dark-green-2:        spin(mix($green-1, #000, 80%),8);
+$dark-green-3:        spin(mix($green-1, #000, 90%),4);
+$green-1:             #36D068;
+$green-2:             mix($green-1, #fff, 75%);
+$green-3:             mix($green-1, #fff, 50%);
+$light-green-1:       mix($green-1, #fff, 30%);
+$light-green-2:       mix($green-1, #fff, 20%);
+$light-green-3:       mix($green-1, #fff, 10%);
+$semi-white-green:    mix($green-1, #fff, 5%);
